@@ -49,6 +49,7 @@ Si quieres ayudar a sentar las bases del movimiento manda un correo a impulsor.m
 ## Herramientas sugeridas
 
 Trello - para tener metas claras y desarrollo de proyecto.
+https://trello.com/b/lULbl6DS/nucleo
 
 ## Actualizaciones
 
