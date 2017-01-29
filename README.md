@@ -34,8 +34,8 @@ Una gran cantidad de mexicanos tiene sed de cambio y necesita herramientas que p
 
 ## 101 - ¿Qué necesitas?
 
-- Crea un email nuevo: impulsor.mx.${SIGUIENTE_NUMERO_DE_MIEMBRO}@gmail.com .
-- Crea una cuenta de Github: impulsor-MX-${SIGUIENTE_NUMERO_DE_MIEMBRO} .
+- Crea una cuenta de Github: impulsor-MX-${NUM} donde NUM es algun número entero de tu elección.
+- Manda Pull Requests de lo que quieras ayudar.
 - Comparte a los programadores que conozcas.
 
 ## ¿Por qué anónimo?
